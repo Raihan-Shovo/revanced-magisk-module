@@ -1,6 +1,6 @@
 {
-  "version": "v8.30.54 (patches: 5.10.1)",
-  "versionCode": 38,
-  "zipUrl": "https://github.com/Raihan-Shovo/revanced-magisk-module/releases/download/38/yt-music-vanced.e-magisk-v8.30.54-arm-v7a.zip",
+  "version": "v8.30.54 (patches: 5.11.1)",
+  "versionCode": 42,
+  "zipUrl": "https://github.com/Raihan-Shovo/revanced-magisk-module/releases/download/42/yt-music-vanced.e-magisk-v8.30.54-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Raihan-Shovo/revanced-magisk-module/update/build.md"
 }
